@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    font-family: fantasy;
+    font-size: 1em;
+    font-weight: lighter;
+    /* a medida ,em, é moldada em relação ao tamanho original da fonte escolhia*/
+    /*podemos deixar mais curto, shorthand, colocar tudo isso em uma linha */
+
+}
+
+h1, h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
